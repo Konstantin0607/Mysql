@@ -25,7 +25,7 @@
 ```
 
 ### Как запустить:
-- git clone https://github.com/Konstantin0607/Mysql.git && cd 40.Mysql && vagrant up
+- git clone https://github.com/Konstantin0607/Mysql.git && cd Mysql && vagrant up
 
 ### Описание:
 

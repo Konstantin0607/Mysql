@@ -25,25 +25,25 @@
 ```
 
 ### Как запустить:
-- git clone https://github.com/MaximMiklyaev/40.Mysql.git && cd 40.Mysql && vagrant up
+- git clone https://github.com/Konstantin0607/Mysql.git && cd 40.Mysql && vagrant up
 
 ### Описание:
 
 1. После поднятия виртуальных машин, выполним операции на мастере:
 
-![Image 1](https://raw.githubusercontent.com/MaximMiklyaev/40.Mysql/master/screenshots/master.png)
+![Image 1](https://github.com/Konstantin0607/Mysql/blob/master/screenshots/master.png)
 
-![Image 2](https://raw.githubusercontent.com/MaximMiklyaev/40.Mysql/master/screenshots/master2.png)
+![Image 2](https://github.com/Konstantin0607/Mysql/blob/master/screenshots/master2.png)
 
 2. Посмотрим репликацию на slave:
 
-![Image 3](https://raw.githubusercontent.com/MaximMiklyaev/40.Mysql/master/screenshots/slave.png)
+![Image 3](https://github.com/Konstantin0607/Mysql/blob/master/screenshots/slave.png)
 
-![Image 4](https://raw.githubusercontent.com/MaximMiklyaev/40.Mysql/master/screenshots/slave2.png)
+![Image 4](https://github.com/Konstantin0607/Mysql/blob/master/screenshots/slave2.png)
 
 - Используем утилиту ```mysqlbinlog```:
 
-![Image 5](https://raw.githubusercontent.com/MaximMiklyaev/40.Mysql/master/screenshots/binlog.png)
+![Image 5](https://github.com/Konstantin0607/Mysql/blob/master/screenshots/binlog.png)
 
 ### Как проверить:
 
